@@ -67,7 +67,7 @@ body::before {
 .avatar {
   width: 96px;
   height: 96px;
-  border-radius: 50%;
+  border-radius: 12px;
   object-fit: cover;
   border: 2px solid var(--border);
   box-shadow: 0 0 0 4px rgba(124,58,237,0.15), 0 0 32px var(--glow);
